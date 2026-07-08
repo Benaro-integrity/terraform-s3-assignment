@@ -9,7 +9,7 @@ terraform {
 }
 
 provider "aws" {
-  region = "eu-West-2" # Replace with your preferred AWS region
+  region = "eu-west-2" # Replace with your preferred AWS region
 }
 
 # 2. Create the S3 Bucket
